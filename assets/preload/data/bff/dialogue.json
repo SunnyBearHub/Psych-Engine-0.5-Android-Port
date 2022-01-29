@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "caroltext",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hehe that song was fire right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "cheer",
+			"text": "hehe yes :>"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "caroltext",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ayo wanna hear another?"
+		}
+	]
+}

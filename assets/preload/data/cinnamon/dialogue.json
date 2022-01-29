@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "caroltext",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOOOO IM BACK!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bee bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "caroltext",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i just whipped up some new songs anwyays, why not? LETS GO!"
+		}
+	]
+}

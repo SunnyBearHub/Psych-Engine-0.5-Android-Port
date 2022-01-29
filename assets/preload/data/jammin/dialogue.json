@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "caroltext",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "aw dang i gotta run"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop skedep beep bo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "caroltext",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright just one more. Bring it on!"
+		}
+	]
+}
