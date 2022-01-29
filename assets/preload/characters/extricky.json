@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-357,
+				-522
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-630,
+				-320
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/EXCLOWN",
+	"position": [
+		-550,
+		-110
+	],
+	"healthicon": "extricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		25,
+		0
+	],
+	"camera_position": [
+		130,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

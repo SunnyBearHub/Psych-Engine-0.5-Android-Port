@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-167,
+				-441
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-310
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-430
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tricky Hell idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-300
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/helltricky",
+	"position": [
+		-330,
+		-590
+	],
+	"healthicon": "trickyh",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		130,
+		510
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
