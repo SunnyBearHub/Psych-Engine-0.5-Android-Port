@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "8",
+			"text": "Sorry Sarv."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "It's fine, it's really."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "8",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm quite tired of this cat and mouse chase y'know?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So i want to let out a little secret of mine. Let's keep this between the four of us okay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "May God Forgive you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "5",
+			"text": "But I won't."
+		}
+	]
+}

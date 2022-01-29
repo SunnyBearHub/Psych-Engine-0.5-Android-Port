@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "3",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "portraits"
+		},
+		{
+			"expression": "2",
+			"text": "You finally came by...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "portraits"
+		},
+		{
+			"expression": "6",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "portraits"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "9",
+			"text": "I'm sorry for the trouble. Ruv... But looks like you have to see me like this..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "It's k."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "It's my job to handle this kind of stuff too anyways..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "And about you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "You've pushed quite a lot of buttons while I was away, huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "Well you really should've just ran away or joined the  church while you could."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "But you decided to put a struggle. So here we are."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bop bee pa?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "Name's Ruv by the way. But that is the last name you will probably be hearing after this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "6",
+			"text": "I would be too tired to do these kind of stuff. but..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "8",
+			"text": "...I have to do what I'm meant to do."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "I'd say break a leg but I might end up breaking yours literally and I'm going to make this as painful as possible for you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "...and your little girlfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "!!!"
+		}
+	]
+}

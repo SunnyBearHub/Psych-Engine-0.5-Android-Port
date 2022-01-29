@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "I see... I see how it is..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "It's always kids like you who assume that you can enter this sacred place freely, just to make fun of it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "portraits",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "This time. I'll give you another chance to take my offer. I really love for you to join us."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop Beep!"
+		}
+	]
+}
