@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bob-glitched.png"><SubTexture name="bob-glitched down0000" x="0" y="0" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched down0001" x="4100" y="0" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched down0002" x="8200" y="0" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched idle0000" x="0" y="4100" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched idle0001" x="4100" y="4100" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched left0000" x="8200" y="4100" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched left0001" x="0" y="8200" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched left0002" x="4100" y="8200" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched left-alt0000" x="8200" y="8200" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched right0000" x="0" y="12300" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched right0001" x="4100" y="12300" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched right0002" x="8200" y="12300" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched up0000" x="0" y="16400" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched up0001" x="4100" y="16400" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+<SubTexture name="bob-glitched up0002" x="8200" y="16400" width="4100" height="4100" frameX="0" frameY="0" frameWidth="4100" frameHeight="4100" />
+</TextureAtlas>
