@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carolxmas.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carolxmas Cheer0000" x="0" y="0" width="817" height="729" frameX="0" frameY="-37" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0001" x="817" y="0" width="780" height="761" frameX="-19" frameY="-8" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0002" x="1597" y="0" width="805" height="765" frameX="-6" frameY="-2" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0003" x="2402" y="0" width="812" height="766" frameX="-2" frameY="-1" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0004" x="3214" y="0" width="816" height="766" frameX="0" frameY="0" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0005" x="4030" y="0" width="817" height="764" frameX="0" frameY="-2" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0006" x="4847" y="0" width="817" height="756" frameX="0" frameY="-10" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0007" x="5664" y="0" width="817" height="729" frameX="0" frameY="-37" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0008" x="6481" y="0" width="817" height="735" frameX="0" frameY="-31" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0009" x="7298" y="0" width="817" height="735" frameX="0" frameY="-31" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0010" x="0" y="766" width="817" height="749" frameX="0" frameY="-17" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0011" x="817" y="766" width="817" height="749" frameX="0" frameY="-17" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0012" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0013" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0014" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0015" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0016" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0017" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0018" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Cheer0019" x="1634" y="766" width="817" height="746" frameX="0" frameY="-20" frameWidth="817" frameHeight="769"/>
+	<SubTexture name="carolxmas Dancing Beat0000" x="2451" y="766" width="817" height="704" frameX="-8" frameY="-19" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0001" x="3268" y="766" width="817" height="717" frameX="-8" frameY="-8" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0002" x="4085" y="766" width="831" height="723" frameX="0" frameY="0" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0003" x="4916" y="766" width="817" height="722" frameX="-8" frameY="-1" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0004" x="5733" y="766" width="817" height="708" frameX="-8" frameY="-15" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0005" x="6550" y="766" width="817" height="712" frameX="-8" frameY="-11" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0006" x="7367" y="766" width="817" height="712" frameX="-8" frameY="-11" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0007" x="0" y="1515" width="817" height="719" frameX="-8" frameY="-4" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0008" x="0" y="1515" width="817" height="719" frameX="-8" frameY="-4" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0009" x="0" y="1515" width="817" height="719" frameX="-8" frameY="-4" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0010" x="817" y="1515" width="817" height="718" frameX="-8" frameY="-5" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0011" x="817" y="1515" width="817" height="718" frameX="-8" frameY="-5" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0012" x="817" y="1515" width="817" height="718" frameX="-8" frameY="-5" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0013" x="1634" y="1515" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0014" x="1634" y="1515" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0015" x="2451" y="1515" width="817" height="705" frameX="-8" frameY="-18" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0016" x="3268" y="1515" width="817" height="713" frameX="-8" frameY="-12" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0017" x="4085" y="1515" width="831" height="716" frameX="0" frameY="-7" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0018" x="4916" y="1515" width="817" height="713" frameX="-8" frameY="-10" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0019" x="5733" y="1515" width="817" height="703" frameX="-8" frameY="-20" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0020" x="6550" y="1515" width="817" height="706" frameX="-8" frameY="-17" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0021" x="7367" y="1515" width="817" height="708" frameX="-8" frameY="-15" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0022" x="0" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0023" x="0" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0024" x="0" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0025" x="817" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0026" x="817" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0027" x="817" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0028" x="1634" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat0029" x="1634" y="2234" width="817" height="717" frameX="-8" frameY="-6" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0000" x="2451" y="2234" width="817" height="698" frameX="0" frameY="-21" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0001" x="3268" y="2234" width="817" height="698" frameX="0" frameY="-21" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0002" x="4085" y="2234" width="817" height="686" frameX="0" frameY="-33" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0003" x="4902" y="2234" width="817" height="686" frameX="0" frameY="-33" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0004" x="5719" y="2234" width="817" height="674" frameX="0" frameY="-45" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0005" x="6536" y="2234" width="817" height="674" frameX="0" frameY="-45" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0006" x="7353" y="2234" width="817" height="693" frameX="0" frameY="-26" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0007" x="0" y="2951" width="817" height="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0008" x="0" y="2951" width="817" height="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0009" x="0" y="2951" width="817" height="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0010" x="817" y="1515" width="817" height="718" frameX="0" frameY="-1" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0011" x="817" y="1515" width="817" height="718" frameX="0" frameY="-1" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0012" x="817" y="1515" width="817" height="718" frameX="0" frameY="-1" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0013" x="1634" y="1515" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0014" x="1634" y="1515" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0015" x="817" y="2951" width="817" height="708" frameX="0" frameY="-11" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0016" x="1634" y="2951" width="817" height="708" frameX="0" frameY="-11" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0017" x="2451" y="2951" width="817" height="707" frameX="0" frameY="-12" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0018" x="3268" y="2951" width="817" height="707" frameX="0" frameY="-12" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0019" x="4085" y="2951" width="817" height="706" frameX="0" frameY="-13" frameWidth="817" frameHeight="719"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0020" x="6550" y="1515" width="817" height="706" frameX="0" frameY="-13" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0021" x="7367" y="1515" width="817" height="708" frameX="0" frameY="-11" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0022" x="0" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0023" x="0" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0024" x="0" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0025" x="817" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0026" x="817" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0027" x="817" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0028" x="1634" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair Landing0029" x="1634" y="2234" width="817" height="717" frameX="0" frameY="-2" frameWidth="831" frameHeight="725"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0000" x="4902" y="2951" width="817" height="715" frameX="0" frameY="-13" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0001" x="5719" y="2951" width="817" height="715" frameX="0" frameY="-13" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0002" x="6536" y="2951" width="817" height="708" frameX="0" frameY="-20" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0003" x="7353" y="2951" width="817" height="716" frameX="0" frameY="-12" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0004" x="0" y="3670" width="817" height="717" frameX="0" frameY="-11" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0005" x="817" y="3670" width="817" height="717" frameX="0" frameY="-11" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0006" x="1634" y="3670" width="817" height="716" frameX="0" frameY="-12" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0007" x="2451" y="3670" width="817" height="726" frameX="0" frameY="-2" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0008" x="3268" y="3670" width="817" height="719" frameX="0" frameY="-9" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0009" x="4085" y="3670" width="817" height="727" frameX="0" frameY="-1" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0010" x="4902" y="3670" width="817" height="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0011" x="4902" y="3670" width="817" height="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0012" x="5719" y="3670" width="817" height="721" frameX="0" frameY="-7" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0013" x="6536" y="3670" width="817" height="727" frameX="0" frameY="-1" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0014" x="7353" y="3670" width="817" height="720" frameX="0" frameY="-8" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0015" x="0" y="4398" width="817" height="714" frameX="0" frameY="-14" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0016" x="817" y="4398" width="817" height="713" frameX="0" frameY="-15" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0017" x="1634" y="4398" width="817" height="710" frameX="0" frameY="-18" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0018" x="2451" y="4398" width="817" height="703" frameX="0" frameY="-25" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0019" x="3268" y="4398" width="817" height="713" frameX="0" frameY="-15" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0020" x="4085" y="4398" width="817" height="706" frameX="0" frameY="-22" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0021" x="4902" y="4398" width="817" height="719" frameX="0" frameY="-9" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0022" x="5719" y="4398" width="817" height="725" frameX="0" frameY="-3" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0023" x="5719" y="4398" width="817" height="725" frameX="0" frameY="-3" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0024" x="6536" y="4398" width="817" height="718" frameX="0" frameY="-10" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0025" x="7353" y="4398" width="817" height="726" frameX="0" frameY="-2" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0026" x="0" y="5124" width="817" height="719" frameX="0" frameY="-9" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0027" x="817" y="5124" width="817" height="727" frameX="0" frameY="-1" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0028" x="1634" y="5124" width="817" height="725" frameX="0" frameY="-3" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Dancing Beat Hair blowing0029" x="1634" y="5124" width="817" height="725" frameX="0" frameY="-3" frameWidth="817" frameHeight="728"/>
+	<SubTexture name="carolxmas Down Note0000" x="2451" y="5124" width="817" height="703" frameX="0" frameY="-6" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Down Note0001" x="3268" y="5124" width="817" height="703" frameX="0" frameY="-6" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Down Note0002" x="4085" y="5124" width="817" height="708" frameX="0" frameY="-1" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Down Note0003" x="4902" y="5124" width="817" height="708" frameX="0" frameY="-1" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Down Note0004" x="5719" y="5124" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0005" x="6536" y="5124" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0006" x="7353" y="5124" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0007" x="0" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0008" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0009" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0010" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0011" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0012" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0013" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0014" x="1634" y="5851" width="817" height="703" frameX="0" frameY="-6" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Down Note0015" x="2451" y="5851" width="817" height="708" frameX="0" frameY="-1" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Down Note0016" x="2451" y="5851" width="817" height="708" frameX="0" frameY="-1" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Down Note0017" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0018" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0019" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0020" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0021" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0022" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0023" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0024" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0025" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0026" x="817" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0027" x="3268" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0028" x="3268" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas Down Note0029" x="4085" y="5851" width="817" height="709"/>
+	<SubTexture name="carolxmas FEAR 0000" x="4902" y="5851" width="817" height="730"/>
+	<SubTexture name="carolxmas FEAR 0001" x="5719" y="5851" width="817" height="730"/>
+	<SubTexture name="carolxmas FEAR 0002" x="6536" y="5851" width="817" height="727" frameX="0" frameY="-3" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0003" x="6536" y="5851" width="817" height="727" frameX="0" frameY="-3" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0004" x="7353" y="5851" width="817" height="702" frameX="0" frameY="-28" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0005" x="0" y="6581" width="817" height="702" frameX="0" frameY="-28" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0006" x="817" y="6581" width="817" height="711" frameX="0" frameY="-19" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0007" x="1634" y="6581" width="817" height="711" frameX="0" frameY="-19" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0008" x="2451" y="6581" width="817" height="710" frameX="0" frameY="-20" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0009" x="3268" y="6581" width="817" height="711" frameX="0" frameY="-19" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0010" x="4085" y="6581" width="817" height="709" frameX="0" frameY="-21" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0011" x="4902" y="6581" width="817" height="711" frameX="0" frameY="-19" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0012" x="5719" y="6581" width="817" height="710" frameX="0" frameY="-20" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0013" x="6536" y="6581" width="817" height="711" frameX="0" frameY="-19" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0014" x="7353" y="6581" width="817" height="709" frameX="0" frameY="-21" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0015" x="0" y="7292" width="817" height="711" frameX="0" frameY="-19" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0016" x="5719" y="6581" width="817" height="710" frameX="0" frameY="-20" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0017" x="6536" y="6581" width="817" height="711" frameX="0" frameY="-19" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0018" x="817" y="7292" width="817" height="715" frameX="0" frameY="-15" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0019" x="817" y="7292" width="817" height="715" frameX="0" frameY="-15" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0020" x="1634" y="7292" width="817" height="717" frameX="0" frameY="-13" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas FEAR 0021" x="2451" y="7292" width="817" height="717" frameX="0" frameY="-13" frameWidth="817" frameHeight="730"/>
+	<SubTexture name="carolxmas Right Note0000" x="3268" y="7292" width="817" height="703" frameX="0" frameY="-6" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Right Note0001" x="4085" y="7292" width="817" height="701" frameX="0" frameY="-8" frameWidth="817" frameHeight="709"/>
+	<SubTexture name="carolxmas Right Note0002" x="4902" y="7292" width="817" height="709"/>
+	<SubTexture name="carolxmas Right Note0003" x="5719" y="7292" width="817" height="709"/>
+	<SubTexture name="carolxmas Right Note0004" x="6536" y="7292" width="817" height="709"/>
+	<SubTexture name="carolxmas Right Note0005" x="7353" y="7292" width="817" height="709"/>
+</TextureAtlas>
