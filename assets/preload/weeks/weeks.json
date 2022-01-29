@@ -1,0 +1,57 @@
+{
+	"storyName": "mid-fight masses",
+	"hideFreeplay": false,
+	"weekBackground": "s",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"communist",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"parish",
+			"sarvente",
+			[
+				226,
+				113,
+				213
+			]
+		],
+		[
+			"worship",
+			"sarvente",
+			[
+				226,
+				113,
+				213
+			]
+		],
+		[
+			"zavodila",
+			"ruv",
+			[
+				106,
+				113,
+				175
+			]
+		],
+		[
+			"gospel",
+			"sarvente-demon",
+			[
+				186,
+				80,
+				135
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

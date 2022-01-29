@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Cinnamon",
+			"carol",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"BFF",
+			"carol",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Jammin",
+			"carol",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"storyName": "carols back wooooooooo",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"carol roll",
+			"carol",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"body",
+			"carol",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"boogie",
+			"carol",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"storyName": "bbpanzus (chad) carol",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
